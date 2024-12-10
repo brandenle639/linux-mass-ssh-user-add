@@ -1,0 +1,2 @@
+example:sudo,user:ssh-rsa 3249032840234urijdop[wdkwpeodm230d23m9 example
+example2:sudo,user:ssh-rsa d2okd0230dkwod203dk23d023odk32dk3203dk example2
